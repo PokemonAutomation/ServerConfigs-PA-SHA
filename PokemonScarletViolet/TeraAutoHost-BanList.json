@@ -12,5 +12,6 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "zxrf", "notes": "Dipped into Pikachu 2+ times"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Peach", "notes": "Kingambit 2 times and made me said dammit"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Chewburu", "notes": "Kingambit 2 times and made me said dammit"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Wei", "notes": "Kingambit 2 times and made me said dammit"}
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Wei", "notes": "Kingambit 2 times and made me said dammit"},
+    {"enabled": true, "language": "chi_sim", "log10p": -2.9, "name": "黃Tom下肚", "notes": "Joined Waka's raid after repeated warning in multiple languages"}
 ]
