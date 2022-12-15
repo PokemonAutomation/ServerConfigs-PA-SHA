@@ -80,10 +80,6 @@
 -![image](https://user-images.githubusercontent.com/67932800/207385324-741abc64-bffc-45fb-ba72-e9be76ff0471.png) 1:47pm 13/12
 -![image](https://user-images.githubusercontent.com/67932800/207385425-abe23036-01dd-420a-add5-5c18497ca7fd.png) 1:50pm 13/12
 
-**CC$**
--![image](https://user-images.githubusercontent.com/67932800/207385676-48104b47-4f07-42e0-9340-28f83551f3d7.png) 2:24pm 13/12
--![image](https://user-images.githubusercontent.com/67932800/207385727-dd09f78a-6606-4b44-a989-4fe8beb48d9c.png) 2:31pm 13/12
--![image](https://user-images.githubusercontent.com/67932800/207385791-c47353d3-a856-4c62-9709-43d49b730797.png) 2:35pm 13/12
 
 
 
