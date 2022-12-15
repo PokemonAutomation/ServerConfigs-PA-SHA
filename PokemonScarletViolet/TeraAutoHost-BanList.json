@@ -26,7 +26,5 @@
     {"enabled": true, "language": "chi_tra", "log10p": -2.0, "name": "内壢一朵花", "notes": "5 dipped into Arashi's Cyclizar"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.0, "name": "小宇", "notes": "Joined Houndour 4 times and made Dhruv sour. Also Permabanned due to repeat offense"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Rudy", "notes": "Joined Houndour 3 times and made Dhruv sour"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "HauntedHat", "notes": "Joined Houndour 3 times and made Dhruv sour"},
-    {"enabled": true, "language": "eng", "log10p": -1.39, "name": "CC$", "notes": "Joined Houndour 3 times and made Dhruv sour"}
-   
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "HauntedHat", "notes": "Joined Houndour 3 times and made Dhruv sour"}
 ]
