@@ -1,9 +1,17 @@
 # Audit Links for the Ban List
 
+*深雨*
+-![image](https://user-images.githubusercontent.com/67932800/207741416-1442fdcb-5d12-4205-9e4f-6da04ef8d342.png)
+-![image](https://user-images.githubusercontent.com/67932800/207741430-5d4d575e-4a85-4ff8-b1ac-095b3ce1d891.png)
+
+
+*Kobi*
+-![image](https://user-images.githubusercontent.com/67932800/207741312-ce6d1fda-3c30-41e4-90a0-15b9b7fec494.png)
+-![image](https://user-images.githubusercontent.com/67932800/207741321-a16e6a55-14b6-4b51-9add-d44a8d8b6518.png)
+
 *Keanu*
 -![image](https://user-images.githubusercontent.com/67932800/207734594-5075fc0e-b4d2-4e8f-a33a-021b89bdb27b.png) 14/12
 -![image](https://user-images.githubusercontent.com/67932800/207734610-3b81739d-0dd6-4734-90b1-38b0718d9a6b.png) 14/12
-
 
 *内壢一朵花:*
 - https://discord.com/channels/695809740428673034/885388078066307102/1052468265940697129
