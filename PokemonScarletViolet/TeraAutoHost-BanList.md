@@ -1,10 +1,5 @@
 # Audit Links for the Ban List
 
-Zepa => (4CTG8C,60SYBP,HMHGBS)
--![image](https://user-images.githubusercontent.com/67932800/207974953-5bb38251-6aaf-4c23-99be-39343989fd42.png)
--![image](https://user-images.githubusercontent.com/67932800/207975009-c01018c7-0dc1-4f86-a993-0101d9e5cb3f.png)
--![image](https://user-images.githubusercontent.com/67932800/207975090-780ae7b1-a78e-4b7b-9cc6-fbeb47fe4b7c.png)
-
 
 Samir => (392VVL,3KJ6Y4,HLJC7N,S5J4SX)
 - https://discord.com/channels/695809740428673034/885388078066307102/1053036759807705089
