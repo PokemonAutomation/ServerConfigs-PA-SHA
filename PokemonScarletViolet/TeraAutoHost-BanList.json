@@ -18,7 +18,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Menacing", "notes": "4/3 on Arashi's Frigibax"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Arra", "notes": "4/3 on Arashi's Frigibax"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Sirius", "notes": "3 on Dhruv's Tarountoula and made his list Gargantua(n)"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "MARTER", "notes": "3 on Dhruv's Tarountoula and made his list Gargantua(n)"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "MARTER", "notes": "3 on Dhruv's Tarountoula and made his list Gargantua(n)"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Zepa", "notes": "3 on Dhruv's Tarountoula and made his list Gargantua(n)"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Samir", "notes": "4/3 on Arashi's Frigibax"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "FoR", "notes": "4/3 on Arashi's Frigibax"},
