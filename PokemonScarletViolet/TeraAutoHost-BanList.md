@@ -1,5 +1,47 @@
 # Audit Links for the Ban List
 
+Migs => (K88MR0,NGGVWD,TJP63Y)
+ - https://media.discordapp.net/attachments/885388078066307102/1053564964092256317/20221217-015055482979.jpg?width=960&height=540
+ - https://media.discordapp.net/attachments/885388078066307102/1053598340803203162/20221217-040333032627.jpg?width=960&height=540
+ - https://media.discordapp.net/attachments/885388078066307102/1053566975617548358/20221217-015855060229.jpg?width=960&height=540
+
+Doopy => (7RNCJV,F3Q8GR,P4R5LM)
+- https://media.discordapp.net/attachments/885388078066307102/1053617370402402354/20221217-101913210515.jpg?width=960&height=540
+- https://media.discordapp.net/attachments/885388078066307102/1053658102706212964/20221217-130104462172.jpg?width=960&height=540
+- https://media.discordapp.net/attachments/885388078066307102/1053656979119296552/20221217-125636551092.jpg?width=960&height=540
+
+Diane-Luna => (5X1J2X,7RNCJV)
+- https://media.discordapp.net/attachments/885388078066307102/1053617370402402354/20221217-101913210515.jpg?width=960&height=540
+- https://media.discordapp.net/attachments/885388078066307102/1053605148548681789/20221217-093039390079.jpg?width=960&height=540
+
+Grimmsnaww => (BN4JD8,VPGRCJ)
+- https://media.discordapp.net/attachments/885388078066307102/1053653807571140628/20221217-124400479750.jpg?width=960&height=540
+- https://media.discordapp.net/attachments/885388078066307102/1053651556198781009/20221217-123503665404.jpg?width=960&height=540
+
+Joshua => (CTCHLG,L0NVKN)
+ - https://media.discordapp.net/attachments/885388078066307102/1053681933864943779/20221217-143546375949.jpg?width=960&height=540
+ - https://media.discordapp.net/attachments/885388078066307102/1053686068962132008/20221217-145212014056.jpg?width=960&height=540
+
+Marcus => (K911SL,L0NVKN)
+- https://media.discordapp.net/attachments/885388078066307102/1053681933864943779/20221217-143546375949.jpg?width=960&height=540
+- https://media.discordapp.net/attachments/885388078066307102/1053572225762074664/20221217-071950070632.jpg?width=960&height=540
+
+Mary => (688BJH,9TYCC7)
+- https://media.discordapp.net/attachments/885388078066307102/1053574313879552001/20221217-072807867407.jpg?width=960&height=540
+- https://media.discordapp.net/attachments/885388078066307102/1053622482034233394/20221217-103931861468.jpg?width=960&height=540
+
+Max => (1YXXXJ,WRBHKP)
+- https://media.discordapp.net/attachments/885388078066307102/1053589962194419754/20221217-083018814747.jpg?width=960&height=540
+- https://media.discordapp.net/attachments/885388078066307102/1053593222057832528/20221217-084315802707.jpg?width=960&height=540
+
+yuji => (5X1J2X,XMXM04)
+- https://media.discordapp.net/attachments/885388078066307102/1053605148548681789/20221217-093039390079.jpg?width=960&height=540
+- https://media.discordapp.net/attachments/885388078066307102/1053578563175075900/20221217-074501046375.jpg?width=960&height=540
+
+ね る ね る => (37YY1M,YYXML6)
+- https://media.discordapp.net/attachments/885388078066307102/1053562604993388544/20221217-064136160438.jpg?width=960&height=540
+- https://media.discordapp.net/attachments/885388078066307102/1053584579518271548/20221217-080855139318.jpg?width=960&height=540
+
 Andrew => (756MB1,8GDWWQ,B0HYH1)
 - https://discord.com/channels/695809740428673034/885388078066307102/1053544053645529108
 - https://discord.com/channels/695809740428673034/885388078066307102/1053571444048666655
