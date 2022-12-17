@@ -24,7 +24,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Joshua","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Marcus","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Mary","notes": "2/1 in Nikki's Lycanroc"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Max","notes": "2/1 in Nikki's Lycanroc"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Max","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "yuji","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Migs","notes": "3/2 in Zyro's Tandemaus"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Arra", "notes": "4/3 on Arashi's Frigibax"},
