@@ -33,11 +33,11 @@
     {"enabled": true, "language": "chi_tra", "log10p": -2.0, "name": "内壢一朵花", "notes": "5 dipped into Arashi's Cyclizar"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.0, "name": "小宇", "notes": "Joined Houndour 4 times and made Dhruv sour. Also Permabanned due to repeat offense"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Rudy", "notes": "Joined Houndour 3 times and made Dhruv sour"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "HauntedHat", "notes": "Joined Houndour 3 times and made Dhruv sour"}
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "HauntedHat", "notes": "Joined Houndour 3 times and made Dhruv sour"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "mOrbid","notes": "4/3 in James' Impidimp"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Marko", "notes": "5/3 on Arashi's Frigibax"},
     {"enabled": false, "language": "eng", "log10p": -1.49, "name": "Random", "notes": "3/2 on Ardough's Growlithe"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "chris ", "notes": "4/3 on Arashi's Frigibax"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "MARTER", "notes": "3 on Dhruv's Tarountoula and made his list Gargantua(n)"},
-    {"enabled": false, "language": "chi_sim", "log10p": -2.0, "name": "祈 祈 羽", "notes": "4/3 on Arashi's Frigibax"},
+    {"enabled": false, "language": "chi_sim", "log10p": -2.0, "name": "祈 祈 羽", "notes": "4/3 on Arashi's Frigibax"}
 ]
