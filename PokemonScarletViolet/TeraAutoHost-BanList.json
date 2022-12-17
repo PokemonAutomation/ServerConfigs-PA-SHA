@@ -24,7 +24,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "FoR", "notes": "4/3 on Arashi's Frigibax"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Flair", "notes": "5/3 on Arashi's Frigibax"},
     {"enabled": true, "language": "eng", "log10p": -1.49, "name": "1122", "notes": "3/2 on Ardough's Growlithe"},
-    {"enabled": true, "language": "eng", "log10p": -1.49, "name": "Maceo", "notes": "3/2 on Ardough's Growlithe"},
+    {"enabled": false, "language": "eng", "log10p": -1.49, "name": "Maceo", "notes": "3/2 on Ardough's Growlithe"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "sleepy", "notes": "3/2 on Ardough's Growlithe"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Andrew", "notes": "3/2 on Zyro's Tandemaus"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.0, "name": "深雨", "notes": "Double dipped into a signle raid tadbulb by rar"},
