@@ -15,7 +15,7 @@ You will have to create a Pull Request (PR) for this but this guide will teach y
 7. Your PR is now ready and it could be submitted but we would like to know a bit more why you want to ban/unban that player so click here (the name of that link will change) ![image](https://user-images.githubusercontent.com/9890500/208321955-53979a75-70cb-495d-aba6-24cd29eda406.png)
 8. Click here ![image](https://user-images.githubusercontent.com/9890500/208321979-e0b2460b-b2c3-474c-a937-319814fec077.png)
 9. Click here ![image](https://user-images.githubusercontent.com/9890500/208321995-1356db36-3616-4906-b9a3-a93d3b6eed45.png)
-10. Click here and edit this file as well ![image](https://user-images.githubusercontent.com/9890500/208322011-15c85f60-2ba7-4fc3-ae7a-cf2f5ab5a242.png)
+10. Click here and edit this file as well. Add the log report for the offending user as well as discord links to the lobbies wherein the user can be found, as can be seen in existing reports ![image](https://user-images.githubusercontent.com/9890500/208322011-15c85f60-2ba7-4fc3-ae7a-cf2f5ab5a242.png) 
 11. This time, makes sure the first option is checked ![image](https://user-images.githubusercontent.com/9890500/208322029-d1ecd312-9ec2-452a-bb5c-4ad34ff702ab.png)
 12. Click "Commit changes"
 13. Your PR is now ready to submit. Click here ![image](https://user-images.githubusercontent.com/9890500/208322061-2dc28196-9f34-4fb7-aac1-f19fe33a0dd8.png)
