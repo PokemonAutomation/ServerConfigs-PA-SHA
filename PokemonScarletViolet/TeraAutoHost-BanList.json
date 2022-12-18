@@ -30,7 +30,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Sirius", "notes": "3 on Dhruv's Tarountoula and made his list Gargantua(n)"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "FoR", "notes": "4/3 on Arashi's Frigibax"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Flair", "notes": "5/3 on Arashi's Frigibax"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Bravo", "notes": "4/2 on Vio's Eevee."},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Bravo", "notes": "4/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Wit", "notes": "4/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Lexi", "notes": "3/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Pan", "notes": "3/2 on Vio's Eevee."},
