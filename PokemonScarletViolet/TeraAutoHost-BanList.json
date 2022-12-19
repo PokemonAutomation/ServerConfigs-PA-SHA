@@ -14,7 +14,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Chewburu", "notes": "Kingambit 2 times and made Dhruv said dammit"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Keanu", "notes": "Double dipped into a signle raid tadbulb by rar"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Wei", "notes": "Kingambit 2 times and made Dhruv said dammit"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Loomin", "notes": "6/3 on Arashi's Frigibax"},
+    {"enabled": true, "language": eng, "log10p": -2.5, "name": "Loomin", "notes": "6/3 on Arashi's Frigibax"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Ellis","notes": "6/3 in James' Impidimp"},
     {"enabled": true, "language": "eng", "log10p": -1.89, "name": "Sico","notes": "4/3 in James' Impidimp"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Anyolo","notes": "4/3 in James' Impidimp"},
@@ -41,7 +41,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "LGBTQIAP+", "notes": "3/2 on Vio's Eevee."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "kalokb", "notes": "3/2 on Vio's Eevee."},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "や ま ざ き", "notes": "3/2 on Vio's Eevee."},
-    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "績 雪", "notes": "3/2 on Vio's Eevee."},
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "績 雪", "notes": "3/2 on Vio's Eevee."}
     {"enabled": true, "language": "chi_sim", "log10p": -2.0, "name": "深雨", "notes": "Double dipped into a signle raid tadbulb by rar"},
     {"enabled": true, "language": "chi_sim", "log10p": -5.0, "name": "黃Tom下肚", "notes": "Joined Waka's raid after repeated warning in multiple languages"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.0, "name": "大中天", "notes": "Joined Houndour 3 times and made Dhruv sour"},
