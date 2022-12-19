@@ -35,7 +35,6 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Bravo", "notes": "4/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Wit", "notes": "4/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Lexi", "notes": "3/2 on Vio's Eevee."},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Pan", "notes": "3/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "18cm", "notes": "3/2 on Vio's Eevee."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Saura", "notes": "4/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Scott TU", "notes": "4/2 on Vio's Eevee."},
