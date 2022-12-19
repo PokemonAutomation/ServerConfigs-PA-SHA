@@ -20,7 +20,8 @@ You will have to create a Pull Request (PR) for this but this guide will teach y
 12. Click "Commit changes"
 13. Your PR is now ready to submit. Click here ![image](https://user-images.githubusercontent.com/9890500/208322061-2dc28196-9f34-4fb7-aac1-f19fe33a0dd8.png)
 14. Click on your pull request ![image](https://user-images.githubusercontent.com/9890500/208322070-c5d1067d-6ca8-410b-b530-22ab3fe08b4f.png)
-15. Click rebase and merge ![image](https://user-images.githubusercontent.com/9890500/208322086-c59b08b3-b178-4916-a4f4-fae761d8d35d.png)
+15. Click squash and merge ![image](https://user-images.githubusercontent.com/9890500/208527209-2b3f70b4-26d6-466a-b5cb-3408822f92d5.png)
+
 
 If at the step 15, the button is greyed, you probably made an error in the json file so redo steps 8 to 12 for the json file and try again or ask for a develloper help !
 
