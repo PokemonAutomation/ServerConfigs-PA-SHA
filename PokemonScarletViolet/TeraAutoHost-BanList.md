@@ -141,9 +141,12 @@ Grimmsnaww => (BN4JD8,VPGRCJ)
 - https://media.discordapp.net/attachments/885388078066307102/1053653807571140628/20221217-124400479750.jpg?width=960&height=540
 - https://media.discordapp.net/attachments/885388078066307102/1053651556198781009/20221217-123503665404.jpg?width=960&height=540
 
-Joshua => (CTCHLG,L0NVKN)
+Joshua => (CTCHLG,L0NVKN) + (0T6K0N,DGD6JY)
  - https://media.discordapp.net/attachments/885388078066307102/1053681933864943779/20221217-143546375949.jpg?width=960&height=540
  - https://media.discordapp.net/attachments/885388078066307102/1053686068962132008/20221217-145212014056.jpg?width=960&height=540
+ - https://discordapp.com/channels/695809740428673034/885388078066307102/1054572026309922818
+ - https://discordapp.com/channels/695809740428673034/885388078066307102/1054567592821530635
+
 
 Marcus => (K911SL,L0NVKN)
 - https://media.discordapp.net/attachments/885388078066307102/1053681933864943779/20221217-143546375949.jpg?width=960&height=540
