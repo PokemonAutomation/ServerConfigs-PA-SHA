@@ -26,7 +26,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Doopy","notes": "3/1 in Nikki's Lycanroc"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Diane-Luna","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Grimmsnaw","notes": "2/1 in Nikki's Lycanroc"},
-    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Joshua","notes": "2/1 in Nikki's Lycanroc"},
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Joshua","notes": "2/1 in Nikki's Lycanroc and 2/1 in rar Chansey. Permabanned."},
     {"enabled": true, "language": "eng", "log10p": -3.0, "name": "Marcus","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Mary","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Max","notes": "2/1 in Nikki's Lycanroc"},
