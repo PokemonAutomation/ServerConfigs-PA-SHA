@@ -36,7 +36,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Marko", "notes": "5/3 on Arashi's Frigibax"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "MARTER", "notes": "3 on Dhruv's Tarountoula and made his list Gargantua(n)"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Mary","notes": "2/1 in Nikki's Lycanroc"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Matt", "notes": "2/1 on rar's Seviper."},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Matt", "notes": "2/1 on rar's Seviper."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Max","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Migs","notes": "3/2 in Zyro's Tandemaus"},
     {"enabled": true, "language": "eng", "log10p": -1.59, "name": "MiMi", "notes": "Dipped into rar starly 5 times"},
