@@ -18,7 +18,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Gary", "notes": "2/1 on rar's Seviper. (name collision)"},
     {"enabled": false, "language": "eng", "log10p": -1.39, "name": "go1", "notes": "2/1 rar Chansey"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Grimmsnaw","notes": "2/1 in Nikki's Lycanroc"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Gyme", "notes": "2/1 rar Chansey"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Gyme", "notes": "2/1 rar Chansey"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "hakiyomi", "notes": "Dipped into Dhruv Tatsu 2+ times"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "HauntedHat", "notes": "Joined Houndour 3 times and made Dhruv sour"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Hockeybolt", "notes": "2/1 rar Chansey"},
