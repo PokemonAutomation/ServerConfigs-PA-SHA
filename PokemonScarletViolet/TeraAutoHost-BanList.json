@@ -3,7 +3,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Thorulf", "notes": "Dipped into Dhruv Tatsu 3+ times"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Hockeybolt", "notes": "2/1 rar Chansey"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "SirAlguien", "notes": "2/1 rar Chansey"},
-    {"enabled": true, "language": "eng", "log10p": -1.39, "name": "go1", "notes": "2/1 rar Chansey"},
+    {"enabled": false, "language": "eng", "log10p": -1.39, "name": "go1", "notes": "2/1 rar Chansey"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Gyme", "notes": "2/1 rar Chansey"},
     {"enabled": true, "language": "eng", "log10p": -4.5, "name": "Mario", "notes": "Multi-Dipped into GF Pikachu and Rar Starly after unbanning. Permabanned."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Karma", "notes": "Remorseless and Dipped into Dhruv Tatsu 3+ times."},
