@@ -1,5 +1,6 @@
 [
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "00C00", "notes": "7/2 on Nikki's Finneon. 3/1 on Sangetsu's Maushold. 4/1 on James' Spidops. You have some explaining to do as a normal appeal will not get you out of this hole."},
+    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "00C00", "notes": "7/2 on Nikki's Finneon. 3/1 on Sangetsu's Maushold. 4/1 on James' Spidops. You have some explaining to do as a normal appeal will not get you out of this hole."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "18cm", "notes": "3/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Alaiya", "notes": "4/2 on Nikki's Finneon. 2/1 on James' Spidops."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Anyolo","notes": "4/3 in James' Impidimp"},
