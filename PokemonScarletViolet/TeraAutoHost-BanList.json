@@ -1,5 +1,5 @@
 [
-    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "00C00", "notes": "7/2 on Nikki's Finneon."},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "00C00", "notes": "7/2 on Nikki's Finneon. 3/1 on Sangetsu's Maushold. You're also not getting out of this ban that easily..."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "18cm", "notes": "3/2 on Vio's Eevee."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Alaiya", "notes": "4/2 on Nikki's Finneon."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Anyolo","notes": "4/3 in James' Impidimp"},
@@ -55,6 +55,7 @@
     {"enabled": false, "language": "eng", "log10p": -1.49, "name": "Random", "notes": "3/2 on Ardough's Growlithe"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Rudy", "notes": "Joined Houndour 3 times and made Dhruv sour"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Sabby","notes": "4/3 in James' Impidimp"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "SaRu*", "notes": "2/1 on Sangetsu's Maushold."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Saura", "notes": "4/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Sirius", "notes": "3 on Dhruv's Tarountoula and made his list Gargantua(n)"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Scott TU", "notes": "4/2 on Vio's Eevee."},
@@ -71,6 +72,7 @@
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "無盲點美女B", "notes": "14/1 on Sangetsu's Maushold. You have some explaining to do as a normal appeal will not get you out of this hole."},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "白 飯", "notes": "9/1 on Sangetsu's Maushold. You have some explaining to do as a normal appeal will not get you out of this hole."},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "績 雪", "notes": "3/2 on Vio's Eevee."},
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "纯 情 浪 漫 主", "notes": "2/1 on Sangetsu's Maushold."},
     {"enabled": true, "language": "chi_sim", "log10p": -2.0, "name": "深雨", "notes": "Double dipped into a signle raid tadbulb by rar"},
     {"enabled": true, "language": "chi_sim", "log10p": -5.0, "name": "黃Tom下肚", "notes": "Joined Waka's raid after repeated warning in multiple languages"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.0, "name": "大中天", "notes": "Joined Houndour 3 times and made Dhruv sour"},
