@@ -40,7 +40,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Lexi", "notes": "3/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "LGBTQIAP+", "notes": "3/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Loomin", "notes": "6/3 on Arashi's Frigibax"},
-    {"enabled": true, "language": "eng", "log10p": -3.0, "name": "Marcus","notes": "2/1 in Nikki's Lycanroc"},
+    {"enabled": false, "language": "eng", "log10p": -3.0, "name": "Marcus","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": false, "language": "eng", "log10p": -4.5, "name": "Mario", "notes": "Multi-Dipped into GF Pikachu and Rar Starly after unbanning. Permabanned."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Marko", "notes": "5/3 on Arashi's Frigibax"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "MARTER", "notes": "3 on Dhruv's Tarountoula and made his list Gargantua(n)"},
