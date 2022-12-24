@@ -1,5 +1,15 @@
 # Audit Links for the Ban List
 
+Withered/Bella => Coherent from SHA/PA Banned for abrasive behaviour from servers.
+
+Fusio => double dipping, ignoring hosts rules, arguing with host
+- https://media.discordapp.net/attachments/1001119009397289032/1056095200264585226/IMG_1700.png?width=348&height=598
+- https://media.discordapp.net/attachments/1001119009397289032/1056095200545624074/IMG_1701.png?width=357&height=598
+- https://media.discordapp.net/attachments/1001119009397289032/1056095200944078848/IMG_1702.png
+- https://media.discordapp.net/attachments/1001119009397289032/1056095201195720815/IMG_1703.png?width=680&height=598
+- https://media.discordapp.net/attachments/1001119009397289032/1056095201439010857/IMG_1704.png
+- https://media.discordapp.net/attachments/1001119009397289032/1056095201694859335/IMG_1705.png
+
 Gilgamesh => (50LJ0W,DLM1VP) - 2/1 on Donphan
 - https://discord.com/channels/695809740428673034/885388078066307102/1056044683047997521
 - https://discord.com/channels/695809740428673034/885388078066307102/1056025635962748960
