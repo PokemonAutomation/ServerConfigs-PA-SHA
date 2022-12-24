@@ -1,5 +1,15 @@
 # Audit Links for the Ban List
 
+Withered/Bella => Coherent from SHA/PA Banned for abrasive behaviour from servers.
+
+Fusio => double dipping, ignoring hosts rules, arguing with host
+- https://media.discordapp.net/attachments/1001119009397289032/1056095200264585226/IMG_1700.png?width=348&height=598
+- https://media.discordapp.net/attachments/1001119009397289032/1056095200545624074/IMG_1701.png?width=357&height=598
+- https://media.discordapp.net/attachments/1001119009397289032/1056095200944078848/IMG_1702.png
+- https://media.discordapp.net/attachments/1001119009397289032/1056095201195720815/IMG_1703.png?width=680&height=598
+- https://media.discordapp.net/attachments/1001119009397289032/1056095201439010857/IMG_1704.png
+- https://media.discordapp.net/attachments/1001119009397289032/1056095201694859335/IMG_1705.png
+
 Tyrone => (VMTK9F,W7NKCY)- 2/1 on Delibird
 - https://discordapp.com/channels/695809740428673034/885388078066307102/1055674336645746770
 - https://discordapp.com/channels/695809740428673034/885388078066307102/1055682640486862869
