@@ -24,6 +24,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "FoR", "notes": "4/3 on Arashi's Frigibax"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Flair", "notes": "5/3 on Arashi's Frigibax"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Gary", "notes": "2/1 on rar's Seviper. (name collision)"},
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Gilgamesh ", "notes": "2/1 on Donphan"},
     {"enabled": false, "language": "eng", "log10p": -1.39, "name": "go1", "notes": "2/1 rar Chansey"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Grimmsnaw","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Gyme", "notes": "2/1 rar Chansey"},
