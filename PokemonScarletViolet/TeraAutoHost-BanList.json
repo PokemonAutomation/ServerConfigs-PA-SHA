@@ -92,6 +92,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "yuyu", "notes": "2/1 rar's Eiscue"},
     {"enabled": false, "language": "eng", "log10p": -1.49, "name": "zxrf", "notes": "Dipped into GF Pikachu 2+ times and Ardough Growlithe 3 time"},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "や ま ざ き", "notes": "3/2 on Vio's Eevee."},
+    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "哈 免", "notes": "3/2 on Nikki's Foongus"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "小 白", "notes": "3/1 on rar's Eiscue"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "小 青", "notes": "2/1 on rar's Eiscue"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "菲 羽", "notes": "3/1 on rar's Eiscue"},
