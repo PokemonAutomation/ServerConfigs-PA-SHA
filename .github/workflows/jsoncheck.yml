@@ -20,3 +20,5 @@ jobs:
           -H "Accept: application/vnd.github+json" \
           /repos/PokemonAutomation/ServerConfigs-PA-SHA/statuses/${{ github.sha }} \
           -f state='success' \
+        env:
+          GH_TOKEN: ${{ github.token }}
