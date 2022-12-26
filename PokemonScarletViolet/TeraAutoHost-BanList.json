@@ -23,7 +23,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "CJ", "notes": "2/1 rar's Eiscue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "DaFlyinPig", "notes": "4/3 on rar's Sandile"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Danii", "notes": "4/1 on rar's Seviper."},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Darby", "notes": "2/1 in rar's Esicue"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Darby", "notes": "2/1 in rar's Esicue"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Darren", "notes": "2/1 rar's Eiscue"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Diane-Luna","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Diony", "notes": "3/1 in rar's Esicue"},
