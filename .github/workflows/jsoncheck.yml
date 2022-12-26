@@ -21,6 +21,7 @@ jobs:
           -H "Accept: application/vnd.github+json" \
           /repos/PokemonAutomation/ServerConfigs-PA-SHA/statuses/${{ github.sha }} \
           -f state='success' \
+          -f context='json' \
         env:
           GH_TOKEN: ${{ github.token }}
       - if: failure()
@@ -31,5 +32,6 @@ jobs:
           -H "Accept: application/vnd.github+json" \
           /repos/PokemonAutomation/ServerConfigs-PA-SHA/statuses/${{ github.sha }} \
           -f state='failure' \
+          -f context='json' \
         env:
           GH_TOKEN: ${{ github.token }}
