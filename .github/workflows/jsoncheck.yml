@@ -13,3 +13,10 @@ jobs:
         uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\.json$"
+      - name: update status
+        run : |
+          gh api \
+          --method POST \
+          -H "Accept: application/vnd.github+json" \
+          /repos/PokemonAutomation/ServerConfigs-PA-SHA/statuses/${{ github.sha }} \
+          -f state='success' \
