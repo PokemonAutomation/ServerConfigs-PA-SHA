@@ -141,7 +141,7 @@
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "冬 日", "notes": "4/3 on Kelp's Dratini"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "明 天 要 当 兵", "notes": "4/3 on Kelp's Dratini"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "明 天 要 當 兵", "notes": "4/3 on Kelp's Dratini"},
-    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "波 多 彤 結 衣", "notes": "4/3 on Kelp's Dratini"},
+    {"enabled": false, "language": "chi_tra", "log10p": -2.5, "name": "波 多 野 結 衣", "notes": "4/3 on Kelp's Dratini. (possible IGN conflict)"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "默 默", "notes": "4/3 on Kelp's Dratini, 8/1 on rar's Eiscue. Expires 25 days after reporting to PA #tera-raid-bans."},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "哈 免", "notes": "3/2 on Nikki's Foongus"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "小 白", "notes": "3/1 on rar's Eiscue"},
