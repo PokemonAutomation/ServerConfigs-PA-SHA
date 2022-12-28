@@ -12,7 +12,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Azusa", "notes": "2/1 on rar's Seviper."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "B.C", "notes": "2/1 rar's Eiscue"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Bella", "notes": "Please contact a moderator in PA #tera-raid-bans."},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "berry", "notes": "3/1 rar's Eiscue, 5/3 rar's Kelp's Dratini. Expires 1 day after reporting to PA #tera-raid-bans."},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "berry", "notes": "3/1 rar's Eiscue, 5/3 rar's Kelp's Dratini. Expires December 29, 2022. 2nd offense. IGN collision."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "BillySquid08", "notes": "2/1 rar's Eiscue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Bravo", "notes": "4/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "CandyED", "notes": "Threatened and harassed a host over DMs. Permabanned from both raids and server-banned from PA/SHA."},
