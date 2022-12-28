@@ -173,7 +173,7 @@
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "海 豹", "notes": "2/1 on rar's Eiscue"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "游 子", "notes": "2/1 on rar's Eiscue"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "胖 仔", "notes": "2/1 on rar's Eiscue"},
-    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "艾 米 娜 娅", "notes": "2/1 on rar's Eiscue"},
+    {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "艾 米 娜 娅", "notes": "2/1 on rar's Eiscue"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "音 婕", "notes": "2/1 on rar's Eiscue"},
     {"enabled": true, "language": "chi_tra", "log10p": -3.0, "name": "無盲點美女B", "notes": "14/1 on Sangetsu's Maushold. 1st offense. Expires January 21, 2023."},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "白 飯", "notes": "9/1 on Sangetsu's Maushold. You have some explaining to do as a normal appeal will not get you out of this hole."},
