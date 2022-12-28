@@ -112,7 +112,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Sirius", "notes": "3 on Dhruv's Tarountoula and made his list Gargantua(n)"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Scott TU", "notes": "4/2 on Vio's Eevee."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Simon", "notes": "2/1 on Sangetsu's Maushold."},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "SirAlguien", "notes": "2/1 rar Chansey"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "SirAlguien", "notes": "2/1 rar Chansey"},
     {"enabled": true, "language": "eng", "log10p": -1.89, "name": "Sico","notes": "4/3 in James' Impidimp"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Tehanu", "notes": "Remorseless Multidipping. Expires 7 days after reporting to PA #tera-raid-bans."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "ThChu", "notes": "2/1 in rar's Esicue"},
