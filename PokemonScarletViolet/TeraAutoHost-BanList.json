@@ -70,7 +70,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Kratos","notes": "3/2 in Nikki's Finneon and 3/1 James' Spidops."},
     {"enabled": true, "language": "eng", "log10p": -1.79, "name": "KS6", "notes": "3/1 in rar's Esicue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Lexi", "notes": "3/2 on Vio's Eevee."},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Laire", "notes": "4/3 in Kelp's Dratini"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Laire", "notes": "4/3 in Kelp's Dratini"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "LGBTQIAP+", "notes": "3/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Linnea", "notes": "8/3 on Nikki's Charcadet. Expires 30/12/2023."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Lion03", "notes": "3/1 in rar's Esicue"},
