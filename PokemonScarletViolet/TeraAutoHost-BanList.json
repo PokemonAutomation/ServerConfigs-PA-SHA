@@ -58,7 +58,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Hockeybolt", "notes": "2/1 rar Chansey"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Ivy Ybby", "notes": "8/2 on Jame's Drowzee, yikes."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "J Chen", "notes": "4/3 on Kelp's Dratini."},
-    {"enabled": true, "language": "eng", "log10p": -1.39, "name": "J.L", "notes": "2/1 in rar's Esicue"},
+    {"enabled": false, "language": "eng", "log10p": -1.39, "name": "J.L", "notes": "2/1 in rar's Esicue. (IGN Collision)"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Jayme", "notes": "2/1 in rar's Esicue"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Jeff", "notes": "2/1 in rar's Esicue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Joseph","notes": "2/1 in rars' Delibird"},
