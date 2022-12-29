@@ -131,7 +131,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Withered", "notes": "Please contact a moderator in PA #tera-raid-bans."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "WhynOk", "notes": "4/3 in Kelp's Dratini"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "WolfieMK", "notes": "2/1 in rar Eiscue"},
-    {"enabled": true, "language": "eng", "log10p": -1.79, "name": "X", "notes": "2/1 in Vice Sableye"},
+    {"enabled": false, "language": "eng", "log10p": -1.79, "name": "X", "notes": "2/1 in Vice Sableye. (Chinese names are misreading as this in English.)"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "yLiang", "notes": "4/3 in Kelp's Dratini and 2/1 in rar Eiscue."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "yuji","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "yuyu", "notes": "2/1 rar's Eiscue"},
