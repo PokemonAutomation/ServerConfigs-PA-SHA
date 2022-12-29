@@ -139,6 +139,8 @@
     {"enabled": false, "language": "jpn", "log10p": -2.5, "name": "や ま ざ き", "notes": "3/2 on Vio's Eevee."},
     {"enabled": true, "language": "chi_sim", "log10p": -4.0, "name": "你孝木", "notes": "11/2 Redneck's Shroomish'. 4/3 on Edwin's Charcadet. 3/2 on Zyro's Zorark. No attempt to appeal. Ban evasion by joining raids that don't support bans. Repeatedly griefing raids after ban - thus counting as 2nd and 3rd offenses. Ban expires 365 days after reporting to PA #tera-raid-bans."},
     {"enabled": true, "language": "chi_tra", "log10p": -4.0, "name": "你孝木", "notes": "11/2 Redneck's Shroomish'. 4/3 on Edwin's Charcadet. 3/2 on Zyro's Zorark. No attempt to appeal. Ban evasion by joining raids that don't support bans. Repeatedly griefing raids after ban - thus counting as 2nd and 3rd offenses. Ban expires 365 days after reporting to PA #tera-raid-bans."},
+    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "係 老 木", "notes": "(misread of 你孝木) 11/2 Redneck's Shroomish'. 4/3 on Edwin's Charcadet. 3/2 on Zyro's Zorark. No attempt to appeal. Ban evasion by joining raids that don't support bans. Repeatedly griefing raids after ban - thus counting as 2nd and 3rd offenses. Ban expires 365 days after reporting to PA #tera-raid-bans."},
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "係 老 木", "notes": "(misread of 你孝木) 11/2 Redneck's Shroomish'. 4/3 on Edwin's Charcadet. 3/2 on Zyro's Zorark. No attempt to appeal. Ban evasion by joining raids that don't support bans. Repeatedly griefing raids after ban - thus counting as 2nd and 3rd offenses. Ban expires 365 days after reporting to PA #tera-raid-bans."},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "E小孝", "notes": "(misread of 你孝木) 11/2 Redneck's Shroomish'. 4/3 on Edwin's Charcadet. 3/2 on Zyro's Zorark. No attempt to appeal. Ban evasion by joining raids that don't support bans. Repeatedly griefing raids after ban - thus counting as 2nd and 3rd offenses. Ban expires 365 days after reporting to PA #tera-raid-bans."},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "E小孝", "notes": "(misread of 你孝木) 11/2 Redneck's Shroomish'. 4/3 on Edwin's Charcadet. 3/2 on Zyro's Zorark. No attempt to appeal. Ban evasion by joining raids that don't support bans. Repeatedly griefing raids after ban - thus counting as 2nd and 3rd offenses. Ban expires 365 days after reporting to PA #tera-raid-bans."},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "崎", "notes": "11/3 on Kelp's Dratini. Expires 30 days after reporting to PA #tera-raid-bans."},
@@ -216,14 +218,12 @@
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "愛 妻 男 人", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "至 尊 宝", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "夜 夜", "notes": "2/1 on Vice Sableye"},
-    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "係 老 木", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "雪雪雪雪", "notes": "3/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "葫 蔑 仔", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "結 城 明 日 奈", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "愛 妻 男 人", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "至 尊 宝", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "夜 夜", "notes": "2/1 on Vice Sableye"},
-    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "係 老 木", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "雪雪雪雪", "notes": "3/1 on Vice Sableye"},
     {"enabled": false, "language": "chi_sim", "log10p": -1.39, "name": "一羽", "notes": "4/3 on rar's Sandile"}
 ]
