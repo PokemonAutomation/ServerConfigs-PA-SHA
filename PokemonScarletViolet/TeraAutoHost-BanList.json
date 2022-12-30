@@ -131,6 +131,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "VEMOO1", "notes": "4/1 in rar's Esicue"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Viola","notes": "2/1 in rars' delibird"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Volo", "notes": "2/1 rar's Eiscue"},
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Wales", "notes": "4/3 Nikki's Slakoth"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Webb", "notes": "2/1 rar's Eiscue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Wei", "notes": "Kingambit 2 times and made Dhruv said dammit"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Wit", "notes": "4/2 on Vio's Eevee."},
@@ -233,5 +234,6 @@
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "至 尊 宝", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "夜 夜", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "雪雪雪雪", "notes": "3/1 on Vice Sableye"},
-    {"enabled": false, "language": "chi_sim", "log10p": -1.39, "name": "一羽", "notes": "4/3 on rar's Sandile"}
+    {"enabled": false, "language": "chi_sim", "log10p": -1.39, "name": "一羽", "notes": "4/3 on rar's Sandile"},
+    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "許 小 心", "notes": "4/3 on Nikki's Slakoth"}
 ]
