@@ -8,7 +8,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Alaiya", "notes": "4/2 on Nikki's Finneon. 2/1 on James' Spidops."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Andyzs", "notes": "2/1 in rar's Esicue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Anyolo","notes": "4/3 in James' Impidimp"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Arcama", "notes": "4/1 on kelp's Camerupt"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Arcama", "notes": "4/1 on kelp's Camerupt"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Arra", "notes": "4/3 on Arashi's Frigibax"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Azusa", "notes": "2/1 on rar's Seviper."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "B.C", "notes": "2/1 rar's Eiscue"},
