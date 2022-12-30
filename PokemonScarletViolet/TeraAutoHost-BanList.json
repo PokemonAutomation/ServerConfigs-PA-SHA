@@ -189,7 +189,7 @@
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "菲 羽", "notes": "3/1 on rar's Eiscue"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "虹 怨", "notes": "3/1 on rar's Eiscue"},
     {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "力 怕", "notes": "2/1 on rar's Eiscue"},
-    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "海 豹", "notes": "2/1 on rar's Eiscue"},
+    {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "海 豹", "notes": "2/1 on rar's Eiscue"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "游 子", "notes": "2/1 on rar's Eiscue"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "胖 仔", "notes": "2/1 on rar's Eiscue"},
     {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "艾 米 娜 娅", "notes": "2/1 on rar's Eiscue"},
