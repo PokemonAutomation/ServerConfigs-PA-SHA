@@ -153,6 +153,7 @@
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "白 慈", "notes": "6/3 on Kelp's Dratini"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "子 银", "notes": "5/3 on Kelp's Dratini"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "子 銀", "notes": "5/3 on Kelp's Dratini"},
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "夏 洛 特", "notes": "3/1 on Kelp's Dratini"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "刃 唯", "notes": "5/2 Arashi's Zangoose."},
     {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "沙 发 马 铃 薯", "notes": "5/3 on Kelp's Dratini and 3/1 on rar eiscue. Expired December 27, 2022."},
     {"enabled": false, "language": "chi_tra", "log10p": -2.5, "name": "泌 發 馬 鈴 薯", "notes": "5/3 on Kelp's Dratini and 3/1 on rar eiscue. Expired December 27, 2022."},
