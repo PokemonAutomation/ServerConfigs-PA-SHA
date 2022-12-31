@@ -243,4 +243,5 @@
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "雪雪雪雪", "notes": "3/1 on Vice Sableye"},
     {"enabled": false, "language": "chi_sim", "log10p": -1.39, "name": "一羽", "notes": "4/3 on rar's Sandile"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "許 小 心", "notes": "4/3 on Nikki's Slakoth"}
+ {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Nick", "notes": "3/1 on Ath0m's Toadscruel"}
 ]
