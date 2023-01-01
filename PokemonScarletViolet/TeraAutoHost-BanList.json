@@ -239,7 +239,7 @@
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "結 城 明 日 奈", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "愛 妻 男 人", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "至 尊 宝", "notes": "2/1 on Vice Sableye"},
-    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "夜 夜", "notes": "2/1 on Vice Sableye"},
+    {"enabled": false, "language": "chi_tra", "log10p": -2.5, "name": "夜 夜", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "雪雪雪雪", "notes": "3/1 on Vice Sableye"},
     {"enabled": false, "language": "chi_sim", "log10p": -1.39, "name": "一羽", "notes": "4/3 on rar's Sandile"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "許 小 心", "notes": "4/3 on Nikki's Slakoth"}
