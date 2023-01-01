@@ -104,7 +104,7 @@
     {"enabled": false, "language": "eng", "log10p": -5.0, "name": "N","notes": "3/1 on Rar's Eiscue. (Chinese names are misreading as this in English.)"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Namin", "notes": "2/1 in Vice Sableye"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "natsum", "notes": "4/3 in Kelp's Dratini"},
-    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Nick", "notes": "5/1 on sangetsu's mouseof3"},
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Nick", "notes": "5/1 on sangetsu's mouseof3 + 3/1 on Ath0m's Toadscruel + 7/1 on Vice's Tropius"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Parzival", "notes": "2/1 in Vice Sableye"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Peach", "notes": "Kingambit 2 times and made Dhruv said dammit"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Ramos", "notes": "Dipped into Dhruv Tatsu 2+ times"},
@@ -242,5 +242,6 @@
     {"enabled": false, "language": "chi_tra", "log10p": -2.5, "name": "夜 夜", "notes": "2/1 on Vice Sableye"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "雪雪雪雪", "notes": "3/1 on Vice Sableye"},
     {"enabled": false, "language": "chi_sim", "log10p": -1.39, "name": "一羽", "notes": "4/3 on rar's Sandile"},
+    {"enabled": true, "language": "chi_sim", "log10p": -1.39, "name": "天 谷", "notes": "4/1 On Vice's Tropius"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "許 小 心", "notes": "4/3 on Nikki's Slakoth"}
 ]
