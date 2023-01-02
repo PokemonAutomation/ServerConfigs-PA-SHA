@@ -260,11 +260,12 @@
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "雪雪雪雪", "notes": "3/1 on Vice Sableye"},
     {"enabled": false, "language": "chi_sim", "log10p": -1.39, "name": "一羽", "notes": "4/3 on rar's Sandile"},
     {"enabled": true, "language": "chi_sim", "log10p": -1.39, "name": "天 谷", "notes": "4/1 On Vice's Tropius"},
-    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "許 小 心", "notes": "4/3 on Nikki's Slakoth"}
+    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "許 小 心", "notes": "4/3 on Nikki's Slakoth"},
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "小 噴", "notes": "8/1 in Redneck's Gyarados"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "亞 倫", "notes": "4/1 in Redneck's Gyarados"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "販 台 小 想", "notes": "3/1 in Redneck's Gyarados"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "焦 糖 穀 倉", "notes": "2/1 in Redneck's Gyarados"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "買 汗 大 師", "notes": "2/1 in Redneck's Gyarados"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "莉 莉 艾", "notes": "4/1 in Redneck's Gyarados"},
-    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "桃 欒 絲", "notes": "3/1 in Redneck's Gyarados"},
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "桃 欒 絲", "notes": "3/1 in Redneck's Gyarados"}
 ]
