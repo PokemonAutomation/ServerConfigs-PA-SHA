@@ -1,6 +1,6 @@
 [
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "00C00", "notes": "7/2 on Nikki's Finneon. 3/1 on Sangetsu's Maushold. 4/1 on James' Spidops. Expires 30 days after reporting to PA #tera-raid-bans."},
-    {"enabled": true, "language": "chi_sim", "log10p": -5.0, "name": "00C00", "notes": "7/2 on Nikki's Finneon. 3/1 on Sangetsu's Maushold. 4/1 on James' Spidops. Expires 30 days after reporting to PA #tera-raid-bans."},
+    {"enabled": true, "language": "chi_sim", "log10p": -6.0, "name": "00C00", "notes": "7/2 on Nikki's Finneon. 3/1 on Sangetsu's Maushold. 4/1 on James' Spidops. Expires 30 days after reporting to PA #tera-raid-bans."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "18cm", "notes": "3/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "35p", "notes": "2/1 rar's Eiscue"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "aaal23", "notes": "4/1 in Redneck's Gyarados"},
