@@ -280,11 +280,11 @@
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "筱 嵐", "notes": "4/3 in Redneck's Charcadet"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "翊", "notes": "4/1 in rar's giraf"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "麻 糬 兔", "notes": "2/1 in rar's giraf"},
-    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "桃 欒 絲", "notes": "3/1 in Redneck's Gyarados"}
-    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "Lit噴火", "notes": "2/1 on skuntank from Drowns + 6/2 on Redneck's tandemaus"}
-    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "Lit噴火", "notes": "2/1 on skuntank from Drowns + 6/2 on Redneck's tandemaus"}
-    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "16號愛人", "notes": "2/1 on skuntank from Drowns"}
-    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "16號愛人", "notes": "2/1 on skuntank from Drowns"}
-    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "周老師", "notes": "2/1 on skuntank from Drowns"}
-    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "周老師", "notes": "2/1 on skuntank from Drowns"}
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "桃 欒 絲", "notes": "3/1 in Redneck's Gyarados"},
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "Lit噴火", "notes": "2/1 on skuntank from Drowns + 6/2 on Redneck's tandemaus"},
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "Lit噴火", "notes": "2/1 on skuntank from Drowns + 6/2 on Redneck's tandemaus"},
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "16號愛人", "notes": "2/1 on skuntank from Drowns"},
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "16號愛人", "notes": "2/1 on skuntank from Drowns"},
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "周老師", "notes": "2/1 on skuntank from Drowns"},
+    {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "周老師", "notes": "2/1 on skuntank from Drowns"},
 ]
