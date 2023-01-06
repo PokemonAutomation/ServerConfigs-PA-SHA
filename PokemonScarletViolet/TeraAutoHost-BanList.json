@@ -166,7 +166,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "X", "notes": "2/1 in Vice Sableye. (Chinese names are misreading as this in English.)"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "yLiang", "notes": "4/3 in Kelp's Dratini and 2/1 in rar Eiscue."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "YTC", "notes": "2/1 on Ath0m's espathra."},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "YubelBuster", "notes": "5/1 on Redneck's tandemaus. Expires on January 6th, 2023."},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "YubelBuster", "notes": "5/1 on Redneck's tandemaus. Expires on January 6th, 2023."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "yuji","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "yuyu", "notes": "2/1 rar's Eiscue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "zxrf", "notes": "Dipped into GF Pikachu 2+ times and Ardough Growlithe 3 time"},
