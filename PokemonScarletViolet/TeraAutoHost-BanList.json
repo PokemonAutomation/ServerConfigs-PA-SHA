@@ -270,7 +270,7 @@
     {"enabled": true, "language": "chi_tra", "log10p": -4.0, "name": "雪雪雪雪", "notes": "3/1 on Vice Sableye, and 2/1 on two Ath0m's raids, and 2/1 on Drowns' skuntank"},
     {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "一羽", "notes": "4/3 on rar's Sandile"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "天 谷", "notes": "4/1 On Vice's Tropius"},
-    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "許 小 心", "notes": "4/3 on Nikki's Slakoth"},
+    {"enabled": true, "language": "chi_sim", "log10p": -4.0, "name": "許 小 心", "notes": "4/3 on Nikki's Slakoth"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "小 噴", "notes": "8/1 in Redneck's Gyarados. Ban Expires on 19/01/2023"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "亞 倫", "notes": "4/1 in Redneck's Gyarados"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "販 台 小 想", "notes": "3/1 in Redneck's Gyarados"},
