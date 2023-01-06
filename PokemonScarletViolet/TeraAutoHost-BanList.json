@@ -107,7 +107,7 @@
     {"enabled": false, "language": "eng", "log10p": -3.0, "name": "MARTER", "notes": "1st Offense: 3 on Dhruv's Tarountoula. 2nd Offense: 2/1 on rar's Girafarig. Attempted ban evasion by changing PFP and lied about prior joins. Expires January 4th. Next offense is 365-day ban."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Mary","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Matt", "notes": "2/1 on rar's Seviper."},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "matteo", "notes": "2/1 in Redneck's Gyarados"},
+    {"enabled": true, "language": "eng", "log10p": -3.0, "name": "matteo", "notes": "2/1 in Redneck's Gyarados"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Max","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Mei","notes": "4/1 in Sangetsu's Maushold. (IGN collision with Mel)"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Migs","notes": "3/2 in Zyro's Tandemaus"},
