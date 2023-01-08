@@ -1,5 +1,10 @@
 # Audit Links for the Ban List
 
+Defi  => Went over limit in Crimsonbot Murkrow and Shellybot Annhihilape
+https://discord.com/channels/695809740428673034/1050667958562738197/1061681961778823259
+https://discord.com/channels/695809740428673034/1050667958562738197/1061118844334252043
+
+
 Matisorbonn => (1R12S5,66N329,6BK3YJ,NP2QGL) 4/1 on Kusax's dragapult
 https://discord.com/channels/695809740428673034/885388078066307102/1061071216078766091
 https://discord.com/channels/695809740428673034/885388078066307102/1061067448754909275
