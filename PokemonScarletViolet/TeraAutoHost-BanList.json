@@ -95,7 +95,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "King", "notes": "2/1 in rar's Esicue"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "King", "notes": "4/1 in rar's Capsakid. Banned for 1 day after appeal"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Kirin", "notes": "(ID: 543731085477937152) 13/3 Kelp's Dratini. Ban evasion using alt account (1057547064885641237). Permabanned."},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Kitsu", "notes": "2/1 in Drowns Tatsugiri"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Kitsu", "notes": "2/1 in Drowns Tatsugiri. (ban invalid due to improper audit trail)"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "ko", "notes": "Dipped into Dhruv Tatsu 2+ times"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Kratos","notes": "3/2 in Nikki's Finneon and 3/1 James' Spidops."},
     {"enabled": false, "language": "eng", "log10p": -5.0, "name": "Krystal", "notes": "2/1 rar capsakid"},
