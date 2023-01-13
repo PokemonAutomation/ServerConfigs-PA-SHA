@@ -51,6 +51,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Ellis","notes": "6/3 in James' Impidimp. Expires 24 Dec 2022."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Elodie", "notes": "2/1 on rar's Seviper."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Enjoy", "notes": "4/3 on Kelp's Dratini. 5/1 on rar's Eiscue. Expires 4 days after reporting to PA #tera-raid-bans."},
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Ero", "notes": "3/2 on Redneck Cetoddle"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "FaCi", "notes": "4/3 on Ardough's Imp."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "FITZ", "notes": "3/2 on Nikki's Finneon."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "FoR", "notes": "4/3 on Arashi's Frigibax"},
@@ -187,6 +188,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "YubelBuster", "notes": "5/1 on Redneck's tandemaus. Expires on January 6th, 2023."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "yuji","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "yuyu", "notes": "2/1 rar's Eiscue"},
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Zangetsu", "notes": "3/2 Redneck Cetoddle."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "zxrf", "notes": "Dipped into GF Pikachu 2+ times and Ardough Growlithe 3 time"},
     {"enabled": false, "language": "jpn", "log10p": -2.5, "name": "や ま ざ き", "notes": "3/2 on Vio's Eevee."},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "全 球 係 最 美 *", "notes": "4/1 in Redneck's Gyarados"},
@@ -335,5 +337,7 @@
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "鱷魚", "notes": "2/1 in drowns tatsugiri"},
     {"enabled": true, "language": "chi_tra", "log10p": -4.0, "name": "爽哥哥", "notes": "2/1 in drowns tatsugiri"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "小卡比", "notes": "2/1 in drowns tatsugiri"},
+    {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "大熊", "notes": "4/2 on Redneck Cetoddle"},
+    {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "花生", "notes": "3/2 on Redneck Cetoddle"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "周老師", "notes": "2/1 on Waka's Mabosstiff"}
 ]
