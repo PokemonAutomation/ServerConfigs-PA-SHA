@@ -1,5 +1,11 @@
 # Audit Links for the Ban List
 
+Tux / Tuxor : 2/1 on Newt's Nymble, and another raid from Drowns. Used ban evasion on the same Nintendo account and lied about it. Count as first infraction
+- https://discord.com/channels/695809740428673034/1050667958562738197/1064268563726225459
+- https://discord.com/channels/695809740428673034/1050929421177077771/1064503440711094362
+
+
+
 ChuwiiX => (0K9XPS,2DJ13F,P1V6TG,QFT9KD,QWGJTV,SX47WJ,W6WV0G,YT9K5T) 8/3 tinkatink
 - https://discord.com/channels/695809740428673034/885388078066307102/1063810256284680324
 - https://discord.com/channels/695809740428673034/885388078066307102/1063802307311054930
