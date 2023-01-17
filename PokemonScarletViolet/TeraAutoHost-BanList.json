@@ -344,6 +344,7 @@
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "大熊", "notes": "4/2 on Redneck Cetoddle"},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "花生", "notes": "3/2 on Redneck Cetoddle"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "冰茶", "notes": "3/2 on Drowns' Cubchoo"},
+    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "松前緒花", "notes": "2/1 on Drowns' Muk"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "花生", "notes": "2/1 on Ath0m's Ampharos"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "周老師", "notes": "2/1 on Waka's Mabosstiff"}
 ]
