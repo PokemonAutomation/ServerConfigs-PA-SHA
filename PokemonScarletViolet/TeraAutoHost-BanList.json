@@ -23,7 +23,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Bravo", "notes": "4/2 on Vio's Eevee."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Bryan", "notes": "2/1 on Drowns' skuntank"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "CandyED", "notes": "Threatened and harassed a host over DMs. Permabanned from both raids and server-banned from PA/SHA."},
-    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Ceezar", "notes": "3/2 Arashi's Zangoose."},
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Ceezar", "notes": "3/2 Arashi's Zangoose. 2nd offense 2/1 Mensch's Banette"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Cheng", "notes": "2/1 in rar's Esicue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Chewburu", "notes": "Kingambit 2 times and made Dhruv said dammit"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Chico Lira", "notes": "3/1 rar capsakid"},
@@ -74,6 +74,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Ham", "notes": "2/1 in rar's Esicue"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Heieie", "notes": "2/1 in Redneck's Gyarados"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "HauntedHat", "notes": "Joined Houndour 3 times and made Dhruv sour"},
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "hina", "notes": "2/1 Mensch's Bannette"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Hira", "notes": "2/1 in rar's Esicue"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Hockeybolt", "notes": "2/1 rar Chansey"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "HoHoHo", "notes": "2/1 RedNeck's Gyarados"},
@@ -342,5 +343,7 @@
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "小卡比", "notes": "2/1 in drowns tatsugiri"},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "大熊", "notes": "4/2 on Redneck Cetoddle"},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "花生", "notes": "3/2 on Redneck Cetoddle"},
+    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "冰茶", "notes": "3/2 on Drowns' Cubchoo"},
+    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "花生", "notes": "2/1 on Ath0m's Ampharos"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "周老師", "notes": "2/1 on Waka's Mabosstiff"}
 ]
