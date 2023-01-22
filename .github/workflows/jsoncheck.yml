@@ -1,5 +1,8 @@
 name: jsoncheck
 
+permissions:
+  statuses: write
+
 on:
   push:
   pull_request:
