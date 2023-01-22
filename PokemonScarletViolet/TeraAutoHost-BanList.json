@@ -181,7 +181,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Tehanu", "notes": "Remorseless Multidipping. Expires 7 days after reporting to PA #tera-raid-bans."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "ThChu", "notes": "2/1 in rar's Esicue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "TheCry", "notes": "2/1 in Redneck's Gyarados. Name collision"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Theo", "notes": "2/1 in rar's Esicue"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Theo", "notes": "2/1 in rar's Esicue. IGN collision"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Thorulf", "notes": "Dipped into Dhruv Tatsu 3+ times"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Tommeke", "notes": "4/3 in Kelp's Dratini and 2/1 in rar Eiscue"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "TOWA", "notes": "2/1 in Redneck's Gyarados"},
