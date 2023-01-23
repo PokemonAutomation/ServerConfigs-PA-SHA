@@ -218,6 +218,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "yuyu", "notes": "2/1 rar's Eiscue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Zangetsu", "notes": "3/2 Redneck Cetoddle."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "zxrf", "notes": "Dipped into GF Pikachu 2+ times and Ardough Growlithe 3 time"},
+    {"enabled": true, "language": "kor", "log10p": -2.5, "name": "게리", "notes": "8/2 on Vice's Eevee. Expires 9 days after reporting to PA #tera-raid-bans."},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "森", "notes": "5/3 redneck eevee"},
     {"enabled": false, "language": "chi_tra", "log10p": -2.5, "name": "幼基拉滷拉，", "notes": "4/3 redneck eevee"},
     {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "百分百傻仔", "notes": "2/1 athom gumshoos"},
