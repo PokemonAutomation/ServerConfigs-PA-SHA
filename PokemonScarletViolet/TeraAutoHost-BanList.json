@@ -220,7 +220,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "zxrf", "notes": "Dipped into GF Pikachu 2+ times and Ardough Growlithe 3 time"},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "森", "notes": "5/3 redneck eevee"},
     {"enabled": false, "language": "chi_tra", "log10p": -2.5, "name": "幼基拉滷拉，", "notes": "4/3 redneck eevee"},
-    {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "百分百傻仔", "notes": "2/1 athom gumshoos"},
+    {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "百分百傻仔", "notes": "2/1 athom gumshoos"},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "小 光", "notes": "4/3 Alice Seviper + 2/1 Athom Ampharos"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "小 光", "notes": "4/3 Alice Seviper + 2/1 Athom Ampharos"},
     {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "倩 倩", "notes": "4/3 Alice Seviper"},
