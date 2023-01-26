@@ -139,7 +139,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Matisorbonn","notes": "4/1 on Kusax's dragapult and 4/1 in rar capsakid. Banned for 2 days after appeal"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Matt", "notes": "2/1 on rar's Seviper."},
     {"enabled": false, "language": "eng", "log10p": -3.0, "name": "matteo", "notes": "2/1 in Redneck's Gyarados"},
-    {"enabled": true, "language": "eng", "log10p": -3.0, "name": "Matthew", "notes": "2/1 on Menschheit' mismagius"},
+    {"enabled": false, "language": "eng", "log10p": -3.0, "name": "Matthew", "notes": "2/1 on Menschheit' mismagius"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Max","notes": "2/1 in Nikki's Lycanroc"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Mayaw", "notes": "2/1 rar capsakid"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Meegle", "notes": "2/1 rar capsakid"},
