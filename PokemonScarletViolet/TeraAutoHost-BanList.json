@@ -90,7 +90,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Hubert", "notes": "4/1 on Kelp's Camerupt"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Iceberg", "notes": "3/2 on Drowns gastrodon + tried to join one more raid after that."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Ikaros", "notes": "2/1 on Ath0m's espathra and 3/1 on Drowns' skuntank. Name collision."},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Ivan", "notes": "2/1 on KuSax's Lucario. Cancelled 11 raids in various hosts in attempts to exceed catch limits. After global ban, cancelled 25 more raids in attempts to join as of 2023/01/28 1:08 PM UTC."},
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Ivan", "notes": "2/1 on KuSax's Lucario. Cancelled 11 raids across various hosts in attempts to exceed catch limits. After global ban, cancelled 25 more raids in attempts to join as of 2023/01/28 1:08 PM UTC. Go ahead and keep trying. Your ban duration increases quadratically to the # of raids you cancel."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Ivy Ybby", "notes": "8/2 on Jame's Drowzee, yikes."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Irishlunatic", "notes": "2/1 in Redneck's Gyarados"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "J Chen", "notes": "4/3 on Kelp's Dratini."},
