@@ -26,3 +26,4 @@ You will have to create a Pull Request (PR) for this but this guide will teach y
 If at the step 15, the button is greyed, you probably made an error in the json file so redo steps 8 to 12 for the json file and try again or ask for a develloper help !
 
 Feel free to report any misunderstanding to us !
+
