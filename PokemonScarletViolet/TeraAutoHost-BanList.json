@@ -18,7 +18,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Azusa", "notes": "2/1 on rar's Seviper."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "B.C", "notes": "2/1 rar's Eiscue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "bailey", "notes": "2/1 in rar's Esicue"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Bella", "notes": "Please contact a moderator in PA #tera-raid-bans."},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Bella", "notes": "Please contact a moderator in PA #tera-raid-bans. Ban has been removed because a good Bella couldn't join because of bad Bella"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "ben", "notes": "2/1 in rar's Esicue (name collision)"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "berry", "notes": "(ID: 988473627915722783) 3/1 rar's Eiscue, 5/3 rar's Kelp's Dratini. Expires December 29, 2022. 2nd offense. IGN collision."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "BillySquid08", "notes": "2/1 rar's Eiscue"},
