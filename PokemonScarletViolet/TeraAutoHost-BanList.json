@@ -424,5 +424,6 @@
     {"enabled": false, "language": "chi_tra", "log10p": -2.5, "name": "Haley希", "notes": "3/2 Drowns' Mareanie"},
     {"enabled": false, "language": "jpn", "log10p": -2.5, "name": "一球超人", "notes": "2/1 Drowns' Hippopotas"},
     {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "一球超人", "notes": "2/1 Drowns' Hippopotas"},
-    {"enabled": false, "language": "chi_tra", "log10p": -2.5, "name": "一球超人", "notes": "2/1 Drowns' Hippopotas"}
+    {"enabled": false, "language": "chi_tra", "log10p": -2.5, "name": "一球超人", "notes": "2/1 Drowns' Hippopotas"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Marianne", "notes": "3/2 Lumieres's Vespiquen"}
 ]
