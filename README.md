@@ -4,7 +4,7 @@ This is the repository to manage the PA & SHA auto host ban list.
 
 # How to modify this ban list
 
-You will have to create a Pull Request (PR) for this but this guide will teach you how to do this even if you have no idea how yet !
+You will have to create a Pull Request (PR) for this but this guide will teach you how to do this even if you have no idea how yet ! Before following this guide, ask in #tera-host-room for write access to this repository. Indeed, if you do not have access, your changes will not be able to be submitted.
 
 1. Navigate to https://github.com/PokemonAutomation/ServerConfigs-PA-SHA/blob/main/PokemonScarletViolet/TeraAutoHost-BanList.json This is the file that manage the ban list itself.
 2. Click the edit button here ![image](https://user-images.githubusercontent.com/9890500/208321710-53ab071c-5b63-4224-9835-8fefa444ffd7.png)
