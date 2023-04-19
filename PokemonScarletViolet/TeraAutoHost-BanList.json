@@ -111,7 +111,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Kelz", "notes": "6/3 in redneck eevee. Unbanned on Jan 19 2023"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "King", "notes": "2/1 in rar's Esicue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "King", "notes": "4/1 in rar's Capsakid. Banned for 1 day after appeal"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Kirin", "notes": "(ID: 543731085477937152) 13/3 Kelp's Dratini. Ban evasion using alt account (1057547064885641237). Permabanned."},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Kirin", "notes": "(ID: 543731085477937152) 13/3 Kelp's Dratini. Ban evasion using alt account (1057547064885641237). Permabanned. Unbanned due to name collision"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Kitsu", "notes": "2/1 in Drowns Tatsugiri. (ban invalid due to improper audit trail)"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "ko", "notes": "Dipped into Dhruv Tatsu 2+ times"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Kraken", "notes": "3/2 shroomish from dlmd97"},
