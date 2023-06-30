@@ -1,5 +1,8 @@
 # Audit Links for the Ban List
 
+(サ ー シ ャ) and (ラ テ マ ル) (every raid for an entire night)
+Suspected use of unknown bot to join every single raid.
+- https://discord.com/channels/695809740428673034/1050667958562738197/1124227821892554832
 
 
 Marianne => (RCH0XW,K0MX1W,2X6WBP) (3/2 vespiqueen)
