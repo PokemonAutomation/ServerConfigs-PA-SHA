@@ -1,5 +1,12 @@
 # Audit Links for the Ban List
 
+ミ ッ ク ス => (NVC94V,THBBBN,W63GJ3,31KKMN,WX7V8M) (5/2 Gimmighoul)
+- https://discord.com/channels/695809740428673034/885388078066307102/1124677412400148501
+- https://discord.com/channels/695809740428673034/885388078066307102/1124678430215131168
+- https://discord.com/channels/695809740428673034/885388078066307102/1124679494163251222
+- https://discord.com/channels/695809740428673034/885388078066307102/1124676297663189085
+- https://discord.com/channels/695809740428673034/885388078066307102/1124675270440386684
+
 (サ ー シ ャ) and (ラ テ マ ル) (every raid for an entire night)
 Suspected use of unknown bot to join every single raid.
 - https://discord.com/channels/695809740428673034/1050667958562738197/1124227821892554832
