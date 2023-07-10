@@ -256,6 +256,8 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Y-y", "notes": "72+ into Eleetment's Gimmighoul. Suspected auto-joining with two Switches (ラ テ マ ル, サ ー シ ャ)."},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "ミ ッ ク ス", "notes": "5/2 Nymph Gimmighoul"},
     {"enabled": true, "language": "jpn", "log10p": -4.0, "name": "二 ッ ク ス", "notes": "(misread of ミ ッ ク ス) 5/2 Nymph Gimmighoul"},
+    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Average ABCD", "notes": "4/2 Nymph Orthworm"},
+    {"enabled": true, "language": "eng", "log10p": -4.0, "name": "Average ABC", "notes": "(misread of Average ABCD) 4/2 Nymph Orthworm"},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "小鬆餅", "notes": "4/3 redneck eevee"},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "萌萌", "notes": "4/3 redneck eevee"},
     {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "全 球 係 最 美 *", "notes": "4/1 in Redneck's Gyarados"},
