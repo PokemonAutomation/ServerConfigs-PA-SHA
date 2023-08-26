@@ -1,5 +1,8 @@
 # Audit Links for the Ban List
 
+Medic:
+- Internal staff discussion on banning Medic: https://discord.com/channels/659641961904340992/695431887975481456/1144750534868357241
+
 Average ABCD => (JPQW7T,L3DCQ0,QY9WWM,V7JH51) (4/2 Orthworm)
 - https://discord.com/channels/695809740428673034/885388078066307102/1125455299839524907
 - https://discord.com/channels/695809740428673034/885388078066307102/1125456488035520536
