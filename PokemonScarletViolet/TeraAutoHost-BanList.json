@@ -122,7 +122,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "KUN", "notes": "2/1 in Redneck's Gyarados"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "lax", "notes": "2/1 on menschheit's mismagius"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Lexi", "notes": "3/2 on Vio's Eevee."},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "lain", "notes": "2/1 in rar's Esicue"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "lain", "notes": "2/1 in rar's Esicue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Laire", "notes": "4/3 in Kelp's Dratini"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "LGBTQIAP+", "notes": "3/2 on Vio's Eevee."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Linnea", "notes": "8/3 on Nikki's Charcadet. Expires 30/12/2023."},
