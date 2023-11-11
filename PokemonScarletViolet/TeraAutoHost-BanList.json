@@ -398,7 +398,7 @@
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "回 憶", "notes": "3/1 on Kusax's dragapult"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "岑 兒", "notes": "3/2 on Redneck's bonsly"},
     {"enabled": true, "language": "chi_tra", "log10p": -2.5, "name": "砌 喔", "notes": "3/2 on Redneck's bonsly"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Valky", "notes": "3/1 in Waka's Golduck"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Valky", "notes": "3/1 in Waka's Golduck"},
     {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "蛙蛙", "notes": "2/1 in drowns tatsugiri"},
     {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "羽鳥紫吳", "notes": "2/1 in drowns tatsugiri"},
     {"enabled": true, "language": "chi_sim", "log10p": -2.5, "name": "鱷魚", "notes": "2/1 in drowns tatsugiri"},
