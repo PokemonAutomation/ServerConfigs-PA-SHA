@@ -84,7 +84,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Ham", "notes": "2/1 in rar's Esicue"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Heieie", "notes": "2/1 in Redneck's Gyarados"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "HauntedHat", "notes": "Joined Houndour 3 times and made Dhruv sour"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Henon", "notes": "8/3 redneck eevee"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Henon", "notes": "8/3 redneck eevee. Unbanned on December 21th, 2023."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "hina", "notes": "2/1 Mensch's Bannette"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Hira", "notes": "2/1 in rar's Esicue"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Hockeybolt", "notes": "2/1 rar Chansey"},
