@@ -237,6 +237,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "YW", "notes": "Yun / YW (same NID) 2/1 Tinkaton from Drown, 4/3 on charcadet from dlmd97"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Zangetsu", "notes": "3/2 Redneck Cetoddle."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "zxrf", "notes": "Dipped into GF Pikachu 2+ times and Ardough Growlithe 3 time"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Zyro", "notes": "For testing purpose"},
     {"enabled": true, "language": "kor", "log10p": -2.5, "name": "게리", "notes": "8/2 on Vice's Eevee. Expires 9 days after reporting to PA #tera-raid-bans."},
     {"enabled": false, "language": "jpn", "log10p": -2.5, "name": "森", "notes": "5/3 redneck eevee"},
     {"enabled": false, "language": "chi_tra", "log10p": -2.5, "name": "幼基拉滷拉，", "notes": "4/3 redneck eevee"},
