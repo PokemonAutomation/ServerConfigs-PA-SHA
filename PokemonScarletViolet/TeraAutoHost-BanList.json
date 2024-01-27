@@ -439,5 +439,5 @@
     {"enabled": false, "language": "jpn", "log10p": -2.5, "name": "一球超人", "notes": "2/1 Drowns' Hippopotas"},
     {"enabled": false, "language": "chi_sim", "log10p": -2.5, "name": "一球超人", "notes": "2/1 Drowns' Hippopotas"},
     {"enabled": false, "language": "chi_tra", "log10p": -2.5, "name": "一球超人", "notes": "2/1 Drowns' Hippopotas"},
-    {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "タ ク ノ リ", "notes": "12/5 on ML_Lacius's Shiny Flutter Mane"},
+    {"enabled": true, "language": "jpn", "log10p": -2.5, "name": "タ ク ノ リ", "notes": "12/5 on ML_Lacius's Shiny Flutter Mane"}
 ]
