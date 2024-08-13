@@ -240,7 +240,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "zxrf", "notes": "Dipped into GF Pikachu 2+ times and Ardough Growlithe 3 time"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Zyro", "notes": "For testing purpose"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Josh", "notes": "Multiple Josh's exceeded limit in Tenshi Gimmighoul"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Luna", "notes": "4/2 in Tenshi Gimmighoul"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Luna", "notes": "4/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Sam", "notes": "1 bad Sam went 8/2 in Tenshi Gimmighoul :("},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Blaze", "notes": "6/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "SACHA EV", "notes": "6/2 in Tenshi Gimmighoul"},
