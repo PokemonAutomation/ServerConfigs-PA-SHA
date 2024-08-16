@@ -251,7 +251,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Adalyn", "notes": "4/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "ADAMPTCG", "notes": "4/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Akane", "notes": "4/2 in Tenshi Gimmighoul"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Lemon", "notes": "3/2 in Tenshi Gimmighoul"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Lemon", "notes": "3/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Leonidas", "notes": "4/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Portal", "notes": "4/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Rod", "notes": "4/2 in Tenshi Gimmighoul"},
