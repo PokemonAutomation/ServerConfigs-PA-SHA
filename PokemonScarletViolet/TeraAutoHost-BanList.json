@@ -263,7 +263,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Minichimi", "notes": "3/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "MitchPalooza", "notes": "3/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Tachyon", "notes": "3/2 in Tenshi Gimmighoul"},
-    {"enabled": true, "language": "eng", "log10p": -4.0, "name": "D", "notes": "3/2 in Tenshi Gimmighoul"},
+    {"enabled": false, "language": "eng", "log10p": -4.0, "name": "D", "notes": "3/2 in Tenshi Gimmighoul. unbanned because it caught someone nammed D. instead"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "julz", "notes": "3/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "kor", "log10p": -2.5, "name": "게리", "notes": "8/2 on Vice's Eevee. Expires 9 days after reporting to PA #tera-raid-bans."},
     {"enabled": false, "language": "jpn", "log10p": -2.5, "name": "森", "notes": "5/3 redneck eevee"},
