@@ -247,7 +247,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Blaze", "notes": "6/2 in Tenshi Gimmighoul. Unbanned to let another Blaze person join."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "SACHA EV", "notes": "6/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Apo", "notes": "5/2 in Tenshi Gimmighoul"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Inferno", "notes": "4/2 in Tenshi Gimmighoul"},
+    {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Inferno", "notes": "4/2 in Tenshi Gimmighoul. Unbanned to let another Inferno join raids."},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Lior", "notes": "5/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Raino", "notes": "5/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Adalyn", "notes": "4/2 in Tenshi Gimmighoul"},
