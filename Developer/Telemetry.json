@@ -1,0 +1,13 @@
+{
+    "Default": {
+        "Metadata": "bde19563b5455b3c6903260e1c272d29491d17365cd3756b6caffc3a40a420969fc35296af92baac78688aca05da8c12456e188faf42f6ea7eb79717c389a0e3c34bd56cca506bbb1b97deb861c69bc3e893dc554ce173e12700bc3fd40052c814c2b6ba57a14281c1d22dcbba7c690e7c955332c71f0fda98",
+        "ReportRate": 1.0
+    },
+    "v0.50.6": {
+        "Metadata": "fe443131f9ac44990ff326e83c61ab45d2ce317248860b6a38fb7e454dff50feb74b4ff6fc4efff8fa4aea2852935969d9878068d76b558629afb7b2ee5b946c42e4a8f6a44a1f0e4f69df015c9b6f8972d11266aaa84a8316ae3b00988cadb35745148d9ea4b05c6adf4686d5f84b712855b9daddc7415405",
+        "ReportRate": 1.0,
+        "OverrideMessage0": {
+            "Message:Not on data change screen.": 1.0
+        }
+    }
+}
