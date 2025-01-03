@@ -193,7 +193,7 @@
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Scott TU", "notes": "4/2 on Vio's Eevee."},
     {"enabled": false, "language": "eng", "log10p": -4.0, "name": "Shadow", "notes": "2/1 rar capsakid + 2nd offense 10/3 in redneck eevee. Name collision with shodow AND lowercase shadow (both innocent)"},
     {"enabled": false, "language": "eng", "log10p": -3.5, "name": "Simon", "notes": "2/1 on Sangetsu's Maushold."},
-    {"enabled": true, "language": "eng", "log10p": -4.0, "name": "Simone", "notes": "Auto-banned from Zyro and cat's auto-hosts for repeatedly trying to go over limits. Cancelled over 20 raids in attempts to go over limits. Banned for 30 days (until May 7th, 2023"},
+    {"enabled": false, "language": "eng", "log10p": -4.0, "name": "Simone", "notes": "Auto-banned from Zyro and cat's auto-hosts for repeatedly trying to go over limits. Cancelled over 20 raids in attempts to go over limits. Banned for 30 days (until May 7th, 2023). Unbanned after a request from SHA modmail on January 3rd, 2025."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "SirAlguien", "notes": "2/1 rar Chansey"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Sirona","notes": "2/1 in Redneck's Gyarados"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Sico","notes": "4/3 in James' Impidimp"},
