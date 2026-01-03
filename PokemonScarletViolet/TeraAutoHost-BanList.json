@@ -250,7 +250,7 @@
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Inferno", "notes": "4/2 in Tenshi Gimmighoul. Unbanned to let another Inferno join raids."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Lior", "notes": "5/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Raino", "notes": "5/2 in Tenshi Gimmighoul"},
-    {"enabled": true, "language": "eng", "log10p": -2.5, "name": "Adalyn", "notes": "4/2 in Tenshi Gimmighoul"},
+    {"enabled": true, "language": "eng", "log10p": -2.8, "name": "Adalyn", "notes": "4/2 in Tenshi Gimmighoul"},
     {"enabled": true, "language": "eng", "log10p": -2.5, "name": "ADAMPTCG", "notes": "4/2 in Tenshi Gimmighoul"},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Akane", "notes": "4/2 in Tenshi Gimmighoul. Unbanned to let another Akane join raids."},
     {"enabled": false, "language": "eng", "log10p": -2.5, "name": "Lemon", "notes": "3/2 in Tenshi Gimmighoul"},
