@@ -31,7 +31,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
 
-      - name: update failed status
+      - name: Update failed status
         if: failure()
         run : |
           gh api \
